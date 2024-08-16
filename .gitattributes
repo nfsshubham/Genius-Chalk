@@ -1,0 +1,15 @@
+Assets/_GT[[:space:]]LUBE[[:space:]]SYSTEM/New[[:space:]]Lube[[:space:]]Oil[[:space:]]Systems.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/FBX/All.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/FBX/Lube[[:space:]]Oil[[:space:]]Systems[[:space:]]Final.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/FilterFinal[[:space:]]-[[:space:]]Ready.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Garage[[:space:]]Model/Texture/Garage.tif filter=lfs diff=lfs merge=lfs -text
+Assets/Import/Condensor[[:space:]]Texture/Condensor.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Import/FilterFinal[[:space:]]-[[:space:]]Final.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Import/FilterFinal[[:space:]]-[[:space:]]Ready[[:space:]]A.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Import/FilterFinal_exported.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Siemens[[:space:]]Turbine[[:space:]]FBX[[:space:]]File/Siemens[[:space:]]TURBINE_FINAL.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Skype[[:space:]]Assets/0[[:space:]]-[[:space:]]Siemens[[:space:]]TURBINE_FINAL[[:space:]]-[[:space:]]Base.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Steam[[:space:]]TURBIN/Updated[[:space:]]Siemens[[:space:]]TURBINE_FINAL.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Upwork/FilterFinal[[:space:]]-[[:space:]]For[[:space:]]Export.fbx filter=lfs diff=lfs merge=lfs -text
+.fbx filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
